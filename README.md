@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SurajS109
-- 👀 I’m interested in Python and FullStack Development
-- 🌱 I’m currently learning Python!
-- 💞️ I’m looking to collaborate on anything that provides value!! 
+- 👀 Aspiring Python Developer, ML and Ai
+- 🌱 Currently developing skills on Python(ipython3,%pylab,data structure and algorithm)
+- 💞️ pip install suraj-s-58820819b 
 - 📫 How to reach me - 7338533258
 
 <!---
